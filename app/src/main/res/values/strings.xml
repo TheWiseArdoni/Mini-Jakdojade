@@ -3,4 +3,5 @@
     <string name="option_1">Normal</string>
     <string name="option_2">Discount</string>
     <string name="enter">Enter</string>
+    <string name="fare_cost">Fare cost: %s</string>
 </resources>
